@@ -1,0 +1,20 @@
+.main-app_root{
+  flex-grow: 1;
+  padding-left: 15rem;
+  padding-right: 15rem;
+  padding-top: 5rem;
+  background-color: #252525;
+}
+.main-app_paper{
+  padding: 20px;
+  text-align: center;
+  color: #252525;
+}
+
+.main-app_paper-input{
+  padding: 20px;
+  text-align: center;
+  color: #252525;
+  background-color: transparent !important;
+  box-shadow: unset !important;
+}
